@@ -8,3 +8,4 @@ commands from an input file.
 
 I have a printCharacteristics() method for printing the aircrafts. This method is overridden in each subclass.
 
+main.cpp is the main file.
